@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="advanced">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/out/production/corejavatraining/advanced.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
