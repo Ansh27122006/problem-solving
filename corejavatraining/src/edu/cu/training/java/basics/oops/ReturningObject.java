@@ -21,7 +21,7 @@ class Library{
 public class ReturningObject {
     public static void main(String[] args) {
         Library CSE=new Library();
-        Book b1=CSE.newBook("Java","Sweta");
+        Book b1=CSE.newBook("java","Sweta");
         b1.display();
     }
 }

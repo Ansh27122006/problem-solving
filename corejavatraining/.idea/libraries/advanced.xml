@@ -2,6 +2,7 @@
   <library name="advanced">
     <CLASSES>
       <root url="jar://$PROJECT_DIR$/out/production/corejavatraining/advanced.zip!/" />
+      <root url="jar://$PROJECT_DIR$/src/pauj/JDBC/mysql-connector-j-9.7.0.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />
